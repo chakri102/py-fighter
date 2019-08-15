@@ -1,2 +1,0 @@
-# py-fighter
-hello world
